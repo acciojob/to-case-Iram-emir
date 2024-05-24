@@ -1,6 +1,4 @@
 
-  // write your code here
-}
 function toCase(text) {
   let u = text.toUpperCase();
   
@@ -15,4 +13,3 @@ function toCase(text) {
 
 const text = prompt("Enter text:");
 alert(toCase(text));
-
